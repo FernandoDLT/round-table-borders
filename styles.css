@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+}
+
+table, td, th {
+    border: 1px solid olivedrab;
+    border-radius: 10px;
+}
+
+td {
+    padding-left: 10px;
+}
+
+th {
+    color: goldenrod;
+}
